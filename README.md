@@ -1,1 +1,1 @@
-# HotelMangentSystem-Java
+# HotelManagementSystem-Java
