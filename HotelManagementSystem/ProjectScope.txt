@@ -1,0 +1,18 @@
+/* Author: Ajjuthan Sarvananthan */
+Hotel Management System (HMS) - Project scope:
+
+* Requires staff to enter quantity of meals.
+* Various beverages can be added to the purchase.
+* Customer's room number can be selected, specifically for room delivery.
+* Has the option to add delivery fees to the total.
+* Has the option to include tax fees to the total. 
+* Indicates Total cost of - meal, drink and delivery sepratley. 
+* SubTotal indicates the total without the additional fees.
+* Total indicates the sum of everything including the additional fees.
+* Indicates local time  and date.
+* Able to convert pounds in five different currencies. 
+* Able to reset entered data.
+* Has an inbuilt calculator.
+* Able to print receipt of total purchase including other fees.
+
+Able to Exit the HMS 
